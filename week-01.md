@@ -42,7 +42,6 @@ __1.2.3__ เปิดโปรแกรม Git bash จะได้หน้า
 <p align="center">  <img src="./images/fig 1-2.png"> </p>
 <p align="center"> <b>รูปที่ 1-2</b> หน้าต่าง terminal ของ git bash</p>
 
-
  __ผลการทดลอง__
  
 <p align="center">  <img src="./แลป/1-2.png"> </p>
