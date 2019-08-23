@@ -41,7 +41,9 @@ __1.2.3__ เปิดโปรแกรม Git bash จะได้หน้า
 
 <p align="center">  <img src="./images/fig 1-2.png"> </p>
 <p align="center"> <b>รูปที่ 1-2</b> หน้าต่าง terminal ของ git bash</p>
+
 __ผลการทดลอง__
+
 <p align="center">  <img src="01.png"> </p>
 
 __1.2.4__ ทดสอบว่าสามารถใช้งาน Git บนเครื่องของเราได้หรือไม่ ให้พิมพ์คำสั่งต่อไปนี้
