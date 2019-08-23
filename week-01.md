@@ -421,7 +421,7 @@ __ผลการทดลอง__
 __ผลการทดลอง__
  
 <p align="center">  <img src="./แลป/1.25.png"> </p>
-<p align="center">  กฏปุ่มเขียนเพื่อ commit change </p>
+<p align="center">  กดปุ่มสีเขียวเพื่อ commit change </p>
 
 
 กลับมาที่ git bash พิมพ์คำสั่ง git status สังเกตุผลการทำงาน
